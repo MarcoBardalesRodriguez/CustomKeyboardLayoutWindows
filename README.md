@@ -2,6 +2,7 @@
 
 
 Software usado: Microsoft Keyboard Layout Creator
+
 Version: 1.4
 
 ## Normal
